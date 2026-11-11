@@ -64,3 +64,4 @@ This project was created as a front-end development portfolio project to demonst
 ---
 
 **Developed by Hristijan Petreski**
+🌐 **Live Demo:** [View Website](https://hristijanpetreskii.github.io/pizza-project/)
